@@ -1,6 +1,6 @@
 !
 ! Title: Lost Ad
-! Last modified: 2022-06-24T11:57:30.507Z
+! Last modified: 2022-06-24T12:11:29.445Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
