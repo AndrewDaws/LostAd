@@ -22,13 +22,6 @@
             ]
         },
         {
-            "name": "WindowsSpyBlocker Extra",
-            "source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt",
-            "transformations": [
-                "RemoveComments"
-            ]
-        },
-        {
             "name": "AdGuard DNS Filter",
             "source": "https://filters.adtidy.org/extension/chromium/filters/15.txt",
             "transformations": [
