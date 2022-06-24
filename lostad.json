@@ -1,0 +1,121 @@
+{
+    "name": "Lost Ad",
+    "sources": [
+        {
+            "name": "Lost's Customs",
+            "source": "losts_customs.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base Filter",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_English/filter.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Spyware Filter",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Tracking Params",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://easylist.to/easylist/easylist.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyPrivacy",
+            "source": "https://easylist.to/easylist/easyprivacy.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Fanboy's Cookiemonster",
+            "source": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Fanboy's Socials",
+            "source": "https://easylist.to/easylist/fanboy-social.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Fanboy's Annoyances",
+            "source": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Socials",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Annoyances",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Mobile Filter",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard German Filter",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "ClearURLs",
+            "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "URL Shortener",
+            "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "I don't care about Cookies",
+            "source": "https://www.i-dont-care-about-cookies.eu/abp/",
+            "transformations": [
+                "RemoveComments"
+            ]
+        }
+    ],
+    "transformations": [
+        "Deduplicate",
+        "Compress"
+    ]
+}

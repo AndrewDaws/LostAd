@@ -1,0 +1,89 @@
+# Basics
+porofessor.gg##.vertical-ad-2-container
+hipdf.com###sharePopup > div.mei-dialog-wrap1:last-child > div.mei-modal-content1:first-child
+ebay-kleinanzeigen.de###vap-ovrly-secure
+ebay-kleinanzeigen.de##div.mfp-wrap.mfp-close-btn-in.mfp-auto-cursor.mfp-ready:nth-child(2)
+@@||www.icloud.com^$important,document
+genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(3) > div.Farm_farm__uhRH4:first-child > div.Farm_divider__XPwtq:last-child > div.Farm_content__AgSzr > div.Farm_sideBar__yXGVR.Farm_stickyBar__85QIF:first-child > div:nth-child(2)
+genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(3) > div.Farm_farm__uhRH4:first-child > div.Farm_divider__XPwtq:last-child > div.Farm_content__AgSzr > div.Farm_listWrapper__RXUDB:last-child > div.units_lb1Wrapper__0Zd2d:nth-child(2)
+genshin-center.com###__next > div.App_app__96S8v > div.Footer_footer__GLL0J:last-child
+twitch.tv###root > div.Layout-sc-nxg1ff-0.eoQePv > div.Layout-sc-nxg1ff-0.qViOJ:nth-child(2) > div.Layout-sc-nxg1ff-0.kSdScw:first-child > div.Layout-sc-nxg1ff-0.cSFwmv.consent-banner
+###GetIn_CookieConsentBox
+##.registration-banner, .registration-banner-isopen
+##.container--sponsored, .container--sponsored--nitropay, .visible
+##.container--share
+##.css-1czd2me, .e7ebutk5
+aiming.pro###ss-top
+@@||vscode.dev^$important,document
+@@||lostinthe.cloud^$important,document
+youtube.com###footer
+youtube.com###voice-search-button
+@@||*.github.dev^$important,document
+github.com##footer.footer.width-full.container-xl.p-responsive:nth-child(8)
+photopea.com##div.flexrow.app:last-child > div:last-child
+||open.spotify.com^$important
+##.gdprCookieBanner_container
+
+# Declutter Tracker.gg
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.site-container.trn-grid.trn-grid--vertical.trn-grid--small:last-child > div.alert-banner.alert-banner--warning:first-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > footer:last-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > div.mobile-promo:nth-child(2)
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.ph:first-child > div.ph__cover:first-child > div.ph__cover-edit:first-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-navigation:first-child > div.trn-site-nav.trn-navigation__main:last-child > nav > ul:first-child > li.apps:last-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-navigation:first-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.ph:first-child > div.ph-nav:nth-child(3) > ul.trn-tabs > li:nth-child(6) > a.trn-tabs__item.router-link-exact-active.router-link-active
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.ph:first-child > div.ph-nav:nth-child(3) > ul.trn-tabs > li:last-child > a.trn-tabs__item
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.ph:first-child > div.ph-nav:nth-child(3) > ul.trn-tabs > li:nth-child(6)
+tracker.gg###app > nav.trn-game-bar:nth-child(2)
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.summary:last-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > section.media-container:nth-child(4)
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.custom-content:nth-child(2)
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.cover:first-child > div.cover-content > div.hero > div.leaders:last-child
+
+# Basics (DNS)
+||ads.google.com^
+||browser.sentry-cdn.com^
+||business.samsungusa.com^
+||ads.reddit.com^
+||log-upload-os.mihoyo.com^
+||googleadservices.com^$important
+
+# Amazon (DNS)
+||smile.amazon.*$removeparam=tag
+||smile.amazon.*$removeparam=creative
+||smile.amazon.*$removeparam=creativeASIN
+||smile.amazon.*$removeparam=camp
+||smile.amazon.*$removeparam=ascsubtag
+||smile.amazon.*$removeparam=ref
+||smile.amazon.*$removeparam=vt
+||smile.amazon.*$removeparam=refRID
+||smile.amazon.*$removeparam=pd_rd_i
+||smile.amazon.*$removeparam=pd_rd_r
+||smile.amazon.*$removeparam=pd_rd_wg
+||smile.amazon.*$removeparam=pd_rd_w
+||smile.amazon.*$removeparam=pf_rd_i
+||smile.amazon.*$removeparam=pf_rd_m
+||smile.amazon.*$removeparam=pf_rd_p
+||smile.amazon.*$removeparam=pf_rd_r
+||smile.amazon.*$removeparam=pf_rd_s
+||smile.amazon.*$removeparam=pf_rd_t
+||smile.amazon.*$removeparam=pf_rd_w
+||smile.amazon.*$removeparam=initialIssue
+||smile.amazon.*$removeparam=smid
+||smile.amazon.*$removeparam=plattr
+||smile.amazon.*$removeparam=field-lbr_brands_browse-bin
+||smile.amazon.*$removeparam=ingress
+||smile.amazon.*$removeparam=visitId
+||smile.amazon.*$removeparam=rdc
+||smile.amazon.*$removeparam=qid
+||smile.amazon.*$removeparam=dchild
+||smile.amazon.*$removeparam=c
+||smile.amazon.*$removeparam=ts_id
+||smile.amazon.*/dp/$removeparam=tag
+||smile.amazon.*/aa$removeparam=bitCampaignCode
+||smile.amazon.*/hz/contact-us/csp$removeparam=/entries/
+||smile.amazon.*/hz/contact-us/csp$removeparam=/Version/
+||smile.amazon.*/hz/contact-us/csp$removeparam=source
+||smile.amazon.*/hz/contact-us/csp$removeparam=from
+||smile.amazon.*/message-us$removeparam=muClientName
+||frontier-va.tiktokv.com^$important
