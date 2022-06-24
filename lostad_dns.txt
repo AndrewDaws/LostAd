@@ -1,20 +1,19 @@
 !
-! Title: Lost Ad
-! Last modified: 2022-06-24T16:55:19.090Z
+! Title: LostAd
+! Last modified: 2022-06-24T17:43:27.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
-@@||www.icloud.com^$important
 @@||vscode.dev^$important
 @@||lostinthe.cloud^$important
 @@||*.github.dev^$important
-||open.spotify.com^$important
+@@||www.icloud.com^$important
 ||ads.google.com^
 ||business.samsungusa.com^
 ||ads.reddit.com^
 ||log-upload-os.mihoyo.com^
-||googleadservices.com^$important
-||frontier-va.tiktokv.com^$important
+||googleadservices.com^
+||frontier-va.tiktokv.com^
 !
 ! Source: https://o0.pages.dev/Pro/adblock.txt
 !
@@ -26,7 +25,6 @@
 ||googletagmanager.com^
 ||adservice.google.com^
 ||googlesyndication.com^
-||googleadservices.com^
 ||scorecardresearch.com^
 ||graph.facebook.com^
 ||app-measurement.com^
