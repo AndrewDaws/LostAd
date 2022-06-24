@@ -12,6 +12,7 @@ genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(3) > div.
 genshin-center.com###__next > div.App_app__96S8v > div.Footer_footer__GLL0J:last-child
 
 twitch.tv###root > div.Layout-sc-nxg1ff-0.eoQePv > div.Layout-sc-nxg1ff-0.qViOJ:nth-child(2) > div.Layout-sc-nxg1ff-0.kSdScw:first-child > div.Layout-sc-nxg1ff-0.cSFwmv.consent-banner
+twitch.tv###f896048f7cb400f47f390e9f75f88c4e > div.Layout-sc-nxg1ff-0.iYwoNw.right-column.right-column--theatre.right-column--beside > div.Layout-sc-nxg1ff-0.hoDdPM:first-child > div.channel-root__right-column > div.Layout-sc-nxg1ff-0.hmkGMl > div.Layout-sc-nxg1ff-0.SVxtW.chat-shell.chat-shell__expanded > div.Layout-sc-nxg1ff-0.cHunhC > div.Layout-sc-nxg1ff-0.ciSpU.stream-chat > section.InjectLayout-sc-588ddc-0.chat-room.kmTSDC:last-child > div.Layout-sc-nxg1ff-0.gsjsMm.chat-room__content > div.Layout-sc-nxg1ff-0.gDuGLD:first-child > div.Layout-sc-nxg1ff-0.gDuGLD:first-child
 
 aiming.pro###ss-top
 
@@ -37,6 +38,7 @@ photopea.com##div.flexrow.app:last-child > div:last-child
 ##.gdprCookieBanner_container
 ###GetIn_CookieConsentBox
 ##.registration-banner, .registration-banner-isopen
+###uhfCookieAlert
 
 # Declutter Tracker.gg
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.site-container.trn-grid.trn-grid--vertical.trn-grid--small:last-child > div.alert-banner.alert-banner--warning:first-child
