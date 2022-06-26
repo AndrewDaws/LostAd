@@ -1,7 +1,7 @@
 ! Expires: 1 day
 !
 ! Title: LostAd DNS
-! Last modified: 2022-06-26T22:06:51.426Z
+! Last modified: 2022-06-26T22:28:06.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
