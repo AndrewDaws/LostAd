@@ -64,6 +64,10 @@ tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > d
 ||log-upload-os.mihoyo.com^
 ||googleadservices.com^
 ||frontier-va.tiktokv.com^
+# unblock MS answers
+@@||answers.microsoft.com^
+# fixes Minecraft
+@@||login.live.com^
 
 # Amazon (DNS)
 ||*.amazon.*$removeparam=tag

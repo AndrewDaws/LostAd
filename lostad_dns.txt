@@ -1,6 +1,6 @@
 !
 ! Title: LostAd DNS
-! Last modified: 2022-06-26T11:37:57.145Z
+! Last modified: 2022-06-26T12:25:42.424Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -14,6 +14,8 @@
 ||log-upload-os.mihoyo.com^
 ||googleadservices.com^
 ||frontier-va.tiktokv.com^
+@@||answers.microsoft.com^
+@@||login.live.com^
 !
 ! Source: https://o0.pages.dev/Pro/adblock.txt
 !
