@@ -39,6 +39,7 @@ photopea.com##div.flexrow.app:last-child > div:last-child
 ###GetIn_CookieConsentBox
 ##.registration-banner, .registration-banner-isopen
 ###uhfCookieAlert
+||sourcepoint.theguardian.com/index.html
 
 # Declutter Tracker.gg
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.site-container.trn-grid.trn-grid--vertical.trn-grid--small:last-child > div.alert-banner.alert-banner--warning:first-child
