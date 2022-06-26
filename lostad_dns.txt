@@ -1,7 +1,7 @@
 ! Expires: 1 day
 !
 ! Title: LostAd DNS
-! Last modified: 2022-06-26T15:54:38.335Z
+! Last modified: 2022-06-26T16:05:38.727Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -17,9 +17,6 @@
 ||frontier-va.tiktokv.com^
 @@||answers.microsoft.com^
 @@||login.live.com^
-!
-! Source: https://o0.pages.dev/Pro/adblock.txt
-!
 ||ichnaea.netflix.com^
 ||events.data.microsoft.com^
 ||nexusrules.officeapps.live.com^
@@ -103754,10 +103751,6 @@
 ||weus2watcab02.blob.core.windows.net^
 ||xblgdvrassets3010.blob.core.windows.net^
 ||ztd.dds.microsoft.com^
-!
-! Source name: AdGuard DNS Filter
-! Source: https://filters.adtidy.org/extension/chromium/filters/15.txt
-!
 ||dfbvccwdlsl.com^
 ||ssyajuhvf.com^
 ||vkgpnmrlexfws.com^
@@ -131909,10 +131902,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zyrtec.3.p2l.info^
 ||zyrtec.4.p2l.info^
 ||statsfe2.ws.microsoft.com^
-!
-! Source name: Smart-TV Blocklist
-! Source: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
-!
 ||myhomescreen.tv^
 @@||mhc-ajax-eu.myhomescreen.tv^
 @@||mhc-ajax-eu-s2.myhomescreen.tv^
