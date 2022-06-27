@@ -15,5 +15,4 @@ AdBlockPlus | 39% | 78pts | ❌ | ❌ | ❌ | ❌ | ❌
 AdGuard Extension | 43% | 78pts | ❌ | ❌ | ✅ | ❌ | ✅
 uBlock Origin | 89% | 96pts | ❌ | ❌ | ✅ | ❌ | ✅
 AdGuard Home + LostAd DNS | 100% | 82pts | ❌ | ❌ | ✅ | ✅ | ✅* 
-LostAd + LostAd DNS any Browser Extension | 99% | 100pts | ✅ | ✅ | ✅ | ✅ | ✅ 
-LostAd + LostAd DNS AdGuard for Windows | 100% | 100pts | ✅ | ✅ | ✅ | ✅ | ✅  
+LostAd + LostAd DNS | 100% | 100pts | ✅ | ✅ | ✅ | ✅ | ✅  
