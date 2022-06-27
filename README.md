@@ -10,9 +10,9 @@
 
 Blocker | D3ward Test | adblock-tester.com | TheGuardian Cookie | NYT Cookie | CYB Content Blocker | CYB Adblock Detector | CYB Alternate Content 
 ---|---|---|---|---|---|---|---
-AdGuard Extension | 43% | 78pts | ❌ | ✅ | ✅ | ❌ | ✅
-AdBlockPlus | 39% | 78pts | ❌ | ❌ | ❌ | ❌ | ❌ 
 AdBlock | 39% | 78pts | ❌ | ❌ | ❌ | ❌ | ❌ 
+AdBlockPlus | 39% | 78pts | ❌ | ❌ | ❌ | ❌ | ❌ 
+AdGuard Extension | 43% | 78pts | ❌ | ❌ | ✅ | ❌ | ✅
 uBlock Origin | 89% | 96pts | ❌ | ❌ | ✅ | ❌ | ✅
 AdGuard Home + LostAd DNS | 100% | 82pts | ❌ | ❌ | ✅ | ✅ | ✅* 
 LostAd + LostAd DNS any Browser Extension | 99% | 100pts | ✅ | ✅ | ✅ | ✅ | ✅ 
