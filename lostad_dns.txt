@@ -1,7 +1,6 @@
-! Expires: 1 day
 !
 ! Title: LostAd DNS
-! Last modified: 2022-06-26T22:28:06.421Z
+! Last modified: 2022-06-27T02:30:58.417Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -120149,6 +120148,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||fmzxing.pw^
 ||gocyghol.vip^
 ||goldnfn.com^
+||goldnfu.com^
 ||htgsbk.top^
 ||ifvpetu.cn^
 ||l14.xyz^
@@ -120163,6 +120163,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sdutmedia.com^
 ||shzq8888.com^
 ||slieindy.top^
+||slimindy.top^
 ||uquholhm.cn^
 ||very010.com^
 ||vhlret.cn^
@@ -120175,8 +120176,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yzsbpp.top^
 ||zhangzhiyang01.cn^
 ||zsgwed.cn^
-||slimindy.top^
-||goldnfu.com^
+||etxggi.cn^
+||dkxobcs.cn^
+||gfvip06af.com^
+||f05.xyz^
 ||readysugerfree.top^
 ||1kcx.hk^
 ||afk3rs.xyz^
