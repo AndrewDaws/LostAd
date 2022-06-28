@@ -1,7 +1,7 @@
 ! Expires: 1 day
 !
 ! Title: LostAd DNS
-! Last modified: 2022-06-27T19:12:33.850Z
+! Last modified: 2022-06-28T02:30:52.645Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -120450,6 +120450,11 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yzsbpp.top^
 ||zhangzhiyang01.cn^
 ||zsgwed.cn^
+||sozdzl.cn^
+||gfvip08af.com^
+||unypud.cn^
+||azfrij.cn^
+||666638.xyz^
 ||readysugerfree.top^
 ||1kcx.hk^
 ||afk3rs.xyz^
@@ -120634,19 +120639,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||xinbici.com^
 ||ienglish.ren^
 ||jsk.wang^
-||7xi9g1.com1.z0.glb.clouddn.com^
-||adrs.sdo.com^
-||drmcmm.baidu.com^
-||duiwai.baidu.com^
-||eiv.baidu.com^
-||foreveryoung.gz01.bdysite.com^
-||hiad.myweb.hinet.net^
-||lu.sogou.com^
-||re.taotaosou.com^
-||show.kc.taotaosou.com^
-||spcode.baidu.com^
-||tad.suning.com^
-||ys2000.cdn.bcebos.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -126527,6 +126519,19 @@ charlestownwyllie.oaklawnnonantum.com^
 ||zzxxli.club^
 ||zzyonghao.com^
 ||zzyytt.top^
+||7xi9g1.com1.z0.glb.clouddn.com^
+||adrs.sdo.com^
+||drmcmm.baidu.com^
+||duiwai.baidu.com^
+||eiv.baidu.com^
+||foreveryoung.gz01.bdysite.com^
+||hiad.myweb.hinet.net^
+||lu.sogou.com^
+||re.taotaosou.com^
+||show.kc.taotaosou.com^
+||spcode.baidu.com^
+||tad.suning.com^
+||ys2000.cdn.bcebos.com^
 ||1024mzs.pw^
 ||1024wanzhai.
 ||7wkw.com^
