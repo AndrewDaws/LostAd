@@ -64,7 +64,7 @@ tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > d
 ||business.samsungusa.com^
 ||ads.reddit.com^
 ||log-upload-os.mihoyo.com^
-||googleadservices.com^
+||googleadservices.com^$important
 ||frontier-va.tiktokv.com^
 # unblock MS answers
 @@||answers.microsoft.com^
