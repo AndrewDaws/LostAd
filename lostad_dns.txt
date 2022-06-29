@@ -1,7 +1,7 @@
 ! Expires: 1 day
 !
 ! Title: LostAd DNS
-! Last modified: 2022-06-29T00:10:48.602Z
+! Last modified: 2022-06-29T02:30:53.587Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.12
 !
@@ -119516,6 +119516,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||trustclick.ne.jp^
 ||yzsjsjx.cn^
 ||airlinemeals.net^
+||a.zdg.de^
 ||ikjnbvf.de^
 ||sra.moresophy.net^
 ||sv.sheego.de^
@@ -120459,6 +120460,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yzsbpp.top^
 ||zhangzhiyang01.cn^
 ||zsgwed.cn^
+||gfvip08as.com^
+||rqkfhquz.cn^
+||nfqhome.com^
+||ayst.love^
+||slivindy.top^
+||caimei.me^
+||lyggt.top^
+||goldnfz.com^
+||iusnajah.cn^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
