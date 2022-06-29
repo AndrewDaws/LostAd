@@ -3,7 +3,7 @@ timestamp() {
   date +"%Y/%m/%d %H:%M:%S"
 }
 
-fetch git
+# fetch git
 git pull
 
 # build lists, and sort them
@@ -32,7 +32,7 @@ echo -e "!\n! Name: LostAd Filter\n$(cat lostad_filter.txt)" > lostad_filter.txt
 echo -e "[Adblock Plus 2.0]\n$(cat lostad.txt)" > lostad.txt
 echo -e "[Adblock Plus 2.0]\n$(cat lostad_filter.txt)" > lostad_filter.txt
 
-push changes to git
+# push changes to git
 git stage lost*
 git commit -m "Build $(timestamp) UTC"
 git push
