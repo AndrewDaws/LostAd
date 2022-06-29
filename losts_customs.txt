@@ -70,6 +70,7 @@ tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > d
 @@||answers.microsoft.com^
 # fixes Minecraft
 @@||login.live.com^
+@@||launchercontent.mojang.com^
 
 # Amazon (DNS)
 ||*.amazon.*$removeparam=tag
