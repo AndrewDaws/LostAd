@@ -1,5 +1,3 @@
-# Basics
-
 porofessor.gg##.vertical-ad-2-container
 
 hipdf.com###sharePopup > div.mei-dialog-wrap1:last-child > div.mei-modal-content1:first-child
@@ -23,26 +21,22 @@ github.com##footer.footer.width-full.container-xl.p-responsive:nth-child(8)
 
 photopea.com##div.flexrow.app:last-child > div:last-child
 
-# Misc
 ##.container--sponsored, .container--sponsored--nitropay, .visible
 ##.container--share
 ##.css-1czd2me, .e7ebutk5
 
-# whitelist
 @@||vscode.dev^$important,document
 @@||lostinthe.cloud^$important,document
 @@||*.github.dev^$important,document
 @@||www.icloud.com^$important,document
 @@||localhost^$important,document
 
-# Cookie Banners and co.
 ##.gdprCookieBanner_container
 ###GetIn_CookieConsentBox
 ##.registration-banner, .registration-banner-isopen
 ###uhfCookieAlert
 ||sourcepoint.theguardian.com/index.html
 
-# Declutter Tracker.gg
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.site-container.trn-grid.trn-grid--vertical.trn-grid--small:last-child > div.alert-banner.alert-banner--warning:first-child
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > footer:last-child
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > div.mobile-promo:nth-child(2)
@@ -58,7 +52,6 @@ tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > d
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.custom-content:nth-child(2)
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.cover:first-child > div.cover-content > div.hero > div.leaders:last-child
 
-# Basics (DNS)
 ||ads.google.com^
 ||browser.sentry-cdn.com^
 ||business.samsungusa.com^
@@ -66,13 +59,12 @@ tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > d
 ||log-upload-os.mihoyo.com^
 ||googleadservices.com^$important
 ||frontier-va.tiktokv.com^
-# unblock MS answers
+
 @@||answers.microsoft.com^
-# fixes Minecraft
+
 @@||login.live.com^
 @@||launchercontent.mojang.com^
 
-# Amazon (DNS)
 ||*.amazon.*$removeparam=tag
 ||*.amazon.*$removeparam=creative
 ||*.amazon.*$removeparam=creativeASIN
