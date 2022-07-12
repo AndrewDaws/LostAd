@@ -34,5 +34,5 @@ echo -e "[Adblock Plus 2.0]\n$(cat lostad_filter.txt)" > lostad_filter.txt
 
 # push changes to git
 git stage lost*
-git commit -m "Build $(timestamp) UTC"
+git commit -m "Build $(timestamp) CE(S)T"
 git push
