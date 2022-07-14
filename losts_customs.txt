@@ -14,6 +14,7 @@ twitch.tv###f896048f7cb400f47f390e9f75f88c4e > div.Layout-sc-nxg1ff-0.iYwoNw.rig
 
 aiming.pro###ss-top
 
+metasrc.com###header_wrapper
 metasrc.com###sidebar
 metasrc.com###bottom_of_page
 

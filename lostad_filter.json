@@ -18,6 +18,10 @@
             "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt"
         },
         {
+            "name": "Fanboy's Enhanced Tracking List",
+            "source": "https://secure.fanboy.co.nz/enhancedstats.txt"
+        },
+        {
             "name": "EasyList",
             "source": "https://easylist.to/easylist/easylist.txt"
         },
@@ -38,7 +42,7 @@
             "source": "https://secure.fanboy.co.nz/fanboy-annoyance.txt"
         },
         {
-            "name": "AdGuard Socials",
+            "name": "AdGuard Social media filter",
             "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt"
         },
         {
@@ -64,6 +68,10 @@
         {
             "name": "I don't care about Cookies",
             "source": "https://www.i-dont-care-about-cookies.eu/abp/"
+        },
+        {
+            "name": "Web Annoyances Ultralist",
+            "source": "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt"
         }
     ],
     "transformations": [
