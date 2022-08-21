@@ -26,6 +26,10 @@
             "source": "https://easylist.to/easylist/easylist.txt"
         },
         {
+            "name": "Adblock Warning Removal List",
+            "source": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
+        },
+        {
             "name": "EasyPrivacy",
             "source": "https://easylist.to/easylist/easyprivacy.txt"
         },
