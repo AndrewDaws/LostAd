@@ -13279,6 +13279,7 @@
 ||ai.m.taobao.com^
 ||aimtell.com^
 ||aimto.cn^
+||aimtxb.cn^
 ||aimweebiy.weebly.com^
 ||ainaksis.com^
 ||ainasimpleg.xyz^
@@ -73393,6 +73394,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mirtrailer.ru^
 ||mirvso.boggi.com^
 ||mirzaenterprises.pk^
+||misafnix.space^
 ||misato.store^
 ||misc.api.snaptube.app^
 ||misc.pandora.xiaomi.com^
@@ -76204,6 +76206,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mujnmhmfhrubzq.com^
 ||mujuclaster.ru^
 ||mujweb.cz^
+||mukjozy.cn^
 ||mulabar.xyz^
 ||mulan.cloud^
 ||mulato.info^
@@ -85672,6 +85675,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||peg-pl.work^
 ||pegristofi.com^
 ||pei-ads.thesmokingjacket.com^
+||peigbv.cn^
 ||p.eikuaitao.com^
 ||peintreplatrier.ca^
 ||peircing-street.fr^
@@ -118649,6 +118653,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ui-api.youbora.com^
 ||ui.auksisham.com^
 ||uib.ff.avast.com^
+||uibtxv.cn^
 ||u-id.cpc.heytapmobile.com^
 ||uid.ksosoft.com^
 ||uid.mavencoalition.io^
@@ -120216,6 +120221,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uxip-res.meizu.com^
 ||u-x.jd.com^
 ||ux-log0.us.archive.org^
+||uxngqd.cn^
 ||uxnjhedmsdfh.com^
 ||u.xogu.cn^
 ||uxpolqk.cn^
