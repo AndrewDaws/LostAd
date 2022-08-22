@@ -57,6 +57,7 @@ photopea.com##div.flexrow.app:last-child > div:last-child
 @@||device.auth.xboxlive.com^
 @@||login.live.com^
 @@||launchercontent.mojang.com^
+@@||ichnaea-web.netflix.com^$important
 
 ||howstuffworks.com
 
