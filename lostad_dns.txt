@@ -125601,7 +125601,7 @@ vkcdnservice.appspot.com^
 ||wiki.liveinternet.ru^
 ||wikiodeliv.com^
 ||wikipediaathome.net^
-@@||*wikipedia.org^$important
+@@||wikipedia.org^$important
 ||wiki-review.net^
 ||wikiwebbox.com^
 ||wikiweblibrary.com^
