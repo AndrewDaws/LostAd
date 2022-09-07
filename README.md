@@ -15,7 +15,7 @@ Blocker | D3ward Test | adblock-tester.com | TheGuardian Cookie | NYT Cookie | C
 ---|---|---|---|---|---|---|---
 AdBlock | 39% | 78pts | ❌ | ❌ | ❌ | ❌ | ❌ 
 AdBlockPlus | 39% | 78pts | ❌ | ❌ | ❌ | ❌ | ❌ 
-Brave Browser | 78% | 100ots | ❌ | ❌ | ❌ | ❌ | ❌
+Brave Browser | 78% | 100pts | ❌ | ❌ | ❌ | ❌ | ❌
 AdGuard Extension | 43% | 78pts | ❌ | ❌ | ✅ | ❌ | ✅
 uBlock Origin | 89% | 96pts | ❌ | ❌ | ✅ | ❌ | ✅
 AdGuard Home + LostAd DNS | 100% | 82pts | ❌ | ❌ | ✅ | ✅ | ✅[^1]
