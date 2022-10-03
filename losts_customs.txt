@@ -60,7 +60,6 @@ photopea.com##div.flexrow.app:last-child > div:last-child
 @@||login.live.com^
 @@||launchercontent.mojang.com^
 @@||ichnaea-web.netflix.com^$important
-@@||wikipedia.org^$important,document
 
 ||howstuffworks.com
 
