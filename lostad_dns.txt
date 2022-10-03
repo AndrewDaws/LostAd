@@ -133484,6 +133484,7 @@ vkcdnservice.appspot.com^
 ||wikil.telichkakol.xyz^
 ||wikiodeliv.com^
 ||wikipediaathome.net^
+@@||wikipedia.org^
 ||wiki-review.net^
 ||wikiwebbox.com^
 ||wikiweblibrary.com^
