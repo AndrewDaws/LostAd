@@ -61,6 +61,10 @@ anti-adblocker$important
 @@||launchercontent.mojang.com^
 @@||ichnaea-web.netflix.com^$important
 
+@@||wikipedia.org^$document
+wikipedia.org$$script, important
+de.m.wikipedia.org###siteNotice$important
+
 ||howstuffworks.com
 
 ||ads.google.com^
