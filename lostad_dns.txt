@@ -18136,6 +18136,7 @@
 ||anthill.instapage.com^
 ||anthill.vn^
 ||anthropophuisms.com^
+anti-adblocker$important
 ||anti-adblock.herokuapp.com^
 ||antiadblock.info^
 ||antiadblocksystems.com^
@@ -133483,7 +133484,6 @@ vkcdnservice.appspot.com^
 ||wikil.telichkakol.xyz^
 ||wikiodeliv.com^
 ||wikipediaathome.net^
-@@||wikipedia.org^$important
 ||wiki-review.net^
 ||wikiwebbox.com^
 ||wikiweblibrary.com^
