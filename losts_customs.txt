@@ -40,6 +40,8 @@ github.com##footer.footer.width-full.container-xl.p-responsive:nth-child(8)
 
 photopea.com##div.flexrow.app:last-child > div:last-child
 
+##anti-adblocker
+
 ##.container--sponsored, .container--sponsored--nitropay, .visible
 ##.container--share
 ##.css-1czd2me, .e7ebutk5
