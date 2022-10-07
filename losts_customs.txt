@@ -74,6 +74,7 @@ de.m.wikipedia.org###siteNotice$important
 ||log-upload-os.mihoyo.com^
 ||googleadservices.com^$important
 ||frontier-va.tiktokv.com^
+watson.*.microsoft.com
 
 ##.gdprCookieBanner_container
 ###GetIn_CookieConsentBox
