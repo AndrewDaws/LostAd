@@ -131545,6 +131545,7 @@ vkcdnservice.appspot.com^
 ||wats.1gettherefaster1.monster^
 ||watson.live.com^
 ||watson.microsoft.com^
+watson.*.microsoft.com
 ||watson.officeint.microsoft.com^
 ||watwait.com^
 ||wau65a.xyz^
