@@ -19950,6 +19950,7 @@ anti-adblocker$important
 ||arshelmeton.com^
 ||arshineensnarl.com^
 ||arsisgreenhills.com^
+||arsnivyr.com^
 ||arsonexchangefly.com^
 ||arsonunemployedcask.com^
 ||arsougroup.com^
@@ -26424,6 +26425,7 @@ anti-adblocker$important
 ||boonsex.com^
 ||boonsolutions.com^
 ||boordam.nl^
+||boorishregt.com^
 ||boosel.com^
 ||booshoune.com^
 ||boosirad.net^
@@ -40090,6 +40092,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dexplatform.com^
 ||dexpredict.com^
 ||dextersolutions.actonservice.com^
+||dextsz.cn^
 ||dexum.org^
 ||dexyi.com.br^
 ||deya.ink^
@@ -65854,6 +65857,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jloresko-xyz.preview-domain.com^
 ||jlosuiq.cn^
 ||jlpbyt.com^
+||jlsynmla.fun^
 ||jlsyuula.cam^
 ||jlt47.lxg8s.xyz^
 ||jlubang.kabpacitan.id^
@@ -65915,6 +65919,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jnhofgrcmsqw.xyz^
 ||jnhxs.shop^
 ||jnkangnuo.com^
+||jnmami.cn^
 ||jnmqym4.cn^
 ||jnn-pa.googleapis.com^
 ||jnpost-payment.1215435.xyz^
@@ -66468,6 +66473,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jubna.com^
 ||jubsaugn.com^
 ||jubsouth.com^
+||jubudayu.com^
 ||jucysh.com^
 ||judaisydfs.club^
 ||judetheatrecompany.co.uk^
@@ -77638,6 +77644,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.readme.io^
 ||metrics.reallymoving.com^
 ||metrics.recunia.de^
+||metrics.redgifs.com^
 ||metrics.refinitiv.com^
 ||metrics.regal.es^
 ||metrics.regions.com^
@@ -85496,6 +85503,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||no8lancelot.appspot.com^
 ||no9pldds1lmn3.soundcloud.com^
 ||noagliph.com^
+||noahparroty.com^
 ||noah.reddion.com^
 ||noaiaft.com^
 ||noamiscience.pro^
@@ -98127,6 +98135,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pxpfnbe1t1.com^
 ||pxptpv.jobup.ch^
 ||px.reactrmod.com^
+||px.redgifs.com^
 ||px.rhinogo.cn^
 ||pxsg.pandora.com^
 ||px.spiceworks.com^
@@ -132884,7 +132893,6 @@ watson.*.microsoft.com
 ||wbkval.ecco.com^
 ||wblt.oui.sncf^
 ||wbmwss.beetv.net^
-||wb.noahparroty.com^
 ||wbn.su^
 ||wbok.pl^
 ||wboptim.online^
@@ -139440,6 +139448,7 @@ watson.*.microsoft.com
 ||xkau2by6af2ug.bar^
 ||xkd.hk^
 ||xkdrhgd4gkjli.bar^
+||xkeo6sleo.cyou^
 ||xketil.com^
 ||xkjxgt.com^
 ||xkkhgnszfd.com^
@@ -140010,6 +140019,7 @@ watson.*.microsoft.com
 ||xxgxqscl.com^
 ||xxid.atlassian.com^
 ||xxid.atl-paas.net^
+||xxkacrc.cn^
 ||xxkio.com^
 ||xxlargepop.com^
 ||xxlefq.journaldesfemmes.fr^
