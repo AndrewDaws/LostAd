@@ -54,6 +54,7 @@
 ||0272aa.com^
 ||0272bb.com^
 ||0272dd.com^
+||027dir.com^
 ||027whht.com^
 ||028708717f.com^
 ||029mxhs.cn^
@@ -83,6 +84,7 @@
 ||0451106.com^
 ||0483bm4mlow8.xyz^
 ||048a7052f0.com^
+||049uing.com^
 ||04-f-bmf.com^
 ||04jhgyt.com^
 ||04.static.xsf.ximxim.com^
@@ -329,6 +331,7 @@
 ||1.1010pic.com^
 ||110380d053f716c4.com^
 ||1104piaoba2022.xyz^
+||1106yh.com^
 ||1108jiuba2022.xyz^
 ||11111.host^
 ||1.11130.com.cn^
@@ -2590,6 +2593,7 @@
 ||5hz.org^
 ||5ibanma.com^
 ||5idoy8p7.live^
+||5ilss.top^
 ||5-internads-7.com^
 ||5isohu.com^
 ||5jdhbfjdfg4.monster^
@@ -3344,6 +3348,7 @@
 ||843acfbeb0.com^
 ||8449nohate.org^
 ||8456.xyz^
+||8499223.com^
 ||8499226.com^
 ||8499258.com^
 ||8499278.com^
@@ -6263,7 +6268,6 @@
 ||ad.1kxun.com^
 ||ad1.missyusa.com^
 ||ad1.on.cc^
-||ad1.pamedia.com.au^
 ||ad1.popcap.com^
 ||ad1rtb.com^
 ||ad1.ru^
@@ -6332,7 +6336,6 @@
 ||ad3.iinfo.cz^
 ||ad3media.com^
 ||ad3.nationalreview.com^
-||ad3.pamedia.com.au^
 ||ad3.rambler.ru^
 ||ad3.sbs.co.kr^
 ||ad3.udn.com^
@@ -8798,7 +8801,6 @@
 ||ad.pravda.ru^
 ||ad-prd.s.joyn.de^
 ||adpredictive.com^
-||ad.preferances.com^
 ||ad.premads.media^
 ||ad.premiumonlinemedia.com^
 ||adpremium.ru^
@@ -8906,7 +8908,6 @@
 ||adrelayer.com^
 ||adrelevance.com^
 ||adreman.pro^
-||adremedy.com^
 ||adremover.org^
 ||adrenalpop.com^
 ||adrenovate.com^
@@ -9895,6 +9896,7 @@
 ||adserver.abv.bg^
 ||adserver.adidas.com^
 ||adserver.adman.si^
+||adserver.adremedy.com^
 ||adserver.adtech.fr^
 ||adserver.adtech.us^
 ||adserver.advertist.com^
@@ -12049,6 +12051,7 @@
 ||ads.xwire.io^
 ||adsxyz.com^
 ||ads.yahoo.com^
+||ads-yallo-production.imgix.net^
 ||ads.yandex.com^
 ||ads.yankscash.com^
 ||ads.yellow.lu^
@@ -18376,7 +18379,6 @@ anti-adblocker$important
 ||aphyfllbla.xyz^
 ||api-01.360dialog.io^
 ||api-02.360dialog.io^
-||api.1106yh.com^
 ||api.140proof.com^
 ||api16-log-sg.pangle-b.io^
 ||api.17ads.net^
@@ -22502,6 +22504,7 @@ anti-adblocker$important
 ||baiducdncmn3.inter.iqiyi.com^
 ||baiducdncmn-gd.inter.iqiyi.com^
 ||baiducdncmn.inter.iqiyi.com^
+||baiducdnimages.com^
 ||baiducom.bj.bcebos.com^
 ||baiduhaoba.com^
 ||baidu-image-qqcom.com^
@@ -25813,6 +25816,7 @@ anti-adblocker$important
 ||bjykkrmhwmlwdic.com^
 ||bjyobunjfplv.com^
 ||bjytdqwx.com^
+||bjzb.xyz^
 ||bjzcbx.com^
 ||bjzdpfnx.net^
 ||bjzghd.com^
@@ -28650,6 +28654,7 @@ anti-adblocker$important
 ||bz-ipdx.baidu.com^
 ||bzlpa.cn^
 ||bzlwe.com^
+||bzngisyv.xyz^
 ||bznxc6721.xyz^
 ||bzotoin.pics^
 ||bzqxze.remixshop.com^
@@ -28697,7 +28702,6 @@ anti-adblocker$important
 ||c1.ifengimg.com^
 ||c1i.su^
 ||c1.microsoft.com^
-||c1.nowlinux.com^
 ||c1.politexpert.ru^
 ||c1.thecounter.de^
 ||c1.wfinterface.com^
@@ -32845,6 +32849,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||click.sender.yandex.ru^
 ||clicksen.se^
 ||clickserver.googleads.com^
+||clicks.eventbrite.com^
 ||clicksgate.com^
 ||clicksgear.com^
 ||clicksgenie.com^
@@ -43696,6 +43701,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dsfhskln.com^
 ||dsfjhfhyry2hh8jo09.com^
 ||dsfsdfd.s3.us-west-004.backblazeb2.com^
+||dsfsdft4324.xyz^
 ||dsg.interia.pl^
 ||dsgslnog.ru^
 ||dsh1ct2zrfakt.cloudfront.net^
@@ -44037,6 +44043,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||dv0.info^
 ||dv7t7qyvgyrt5.cloudfront.net^
 ||dvagh3p3rk8xj.cloudfront.net^
+||dvaimso.cn^
 ||dvaminusodin.net^
 ||dvanaro.ru^
 ||dvaxyqp.cn^
@@ -58657,6 +58664,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hbbtv-track.redbutton.de^
 @@||hbbtv.zdf.de^
 ||hbccwlkj.top^
+||hbcl.ltd^
 ||hb-dot-valuad.appspot.com^
 ||hbears.com^
 ||hbepoqct.xyz^
@@ -62811,6 +62819,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ijijiki.s3.us-west-004.backblazeb2.com^
 ||ijir.cn^
 ||ijkcmm.com^
+||ijkqwopm.xyz^
 ||ijnewhb.com^
 ||ijnocom.ru^
 ||ijqbhuubyg.com^
@@ -67253,6 +67262,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||jkk7777.xyz^
 ||jknarp.kakaku.com^
 ||jknetechnonutson.com^
+||jknmsdpo.xyz^
 ||jkonulov-com.preview-domain.com^
 ||jksdcwgjfm.xyz^
 ||jkshc.org^
@@ -69473,6 +69483,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kjbyuguv12.com^
 ||kjcenter.com^
 ||kjcnve.xyz^
+||kjcvw.xyz^
 ||kjfoqi.cn^
 ||kjgen.com^
 ||kjggk1.xyz^
@@ -69613,6 +69624,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kmgi.com^
 ||kmindex.ru^
 ||kmisa68.com^
+||kmjbwejnr.xyz^
 ||kmlasttyyea.com^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kmmx49.com^
@@ -82420,6 +82432,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mql5.net^
 ||mqldrm.lgcity.ru^
 ||mqmh.uihdlx.xyz^
+||mqnggnsx.fun^
 ||mqpazioiyt.com^
 ||m.qpic.cn^
 ||mq-poa.web.app^
@@ -86678,6 +86691,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||niijjvv.s3.us-west-004.backblazeb2.com^
 ||niik9494.top^
 ||nijj990.xyz^
+||nijnqwem.xyz^
 ||nike666.com^
 ||nikeinc.fr^
 ||nikeinpolska.com^
@@ -96937,7 +96951,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||pqdhda.bluepops.co.kr^
 ||pqfgtp.cn^
 ||pqlcpm.kindoh.co.kr^
-||p.qlogo.cn^
 ||pqnnjjpzarpb.com^
 ||pqorwmmlkf.com^
 ||pqo.telichkakol.xyz^
@@ -100121,6 +100134,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qlmqzznfcb.com^
 ||qlnomb.com^
 ||qload.ru^
+||qlogo.cn^
 ||qloved.cn^
 ||qlowivucwh.com^
 ||qlqtnqlruou.com^
@@ -100706,6 +100720,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qvuehosxuzhagv.com^
 ||qvvoom.com^
 ||qvylkvlpjwz.com^
+||qvyzdox.cn^
 ||qvzrde.eusemfronteiras.com.br^
 ||qwa3ldhn9u0t.com^
 ||qwadakesy.cyou^
@@ -100797,6 +100812,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||qzlkqsl.cn^
 ||qzlog.com^
 ||qzngisyy.xyz^
+||qzos9ou.xyz^
 ||qzqyw.cn^
 ||q-zr8.thewiber.com^
 ||qzthueo.cn^
@@ -105218,6 +105234,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||s4e8.cascades.com^
 ||s4elk8ir1exrkc.com^
 ||s4f.net^
+||s4ls9.top^
 ||s4mdsp.com^
 ||s4m.io^
 ||s4.partner.yoomoney.ru^
@@ -128233,6 +128250,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||txmsw.mobi^
 ||tx.n11.com^
 ||txnnhz.cn^
+||txnwq.xyz^
 ||t.xoom.com^
 ||txpbnm.sevellia.com^
 ||tx.peqwik.site^
@@ -130521,6 +130539,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||uyaly.com^
 ||uyechyymr.com^
 ||uyjgnxgfts.me^
+||uyjhbawd.xyz^
 ||uylab.org^
 ||uymjbn.com^
 ||uymkdz9s.com^
@@ -131383,6 +131402,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||vgfutxwgq.com^
 ||vgfxogufyahwbqt.com^
 ||vggdaiesp.com^
+||vggzftw.cn^
 ||vghd.com^
 ||vgimer.cn^
 ||vg.is.fi^
@@ -134989,6 +135009,7 @@ watson.*.microsoft.com
 ||wfcdn.de^
 ||wffengtai.com.cn^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
+||wfhuzaj.cn^
 ||w.filesor.com^
 ||wfixed.space^
 ||wfkspcs.cn^
@@ -144160,6 +144181,7 @@ watson.*.microsoft.com
 ||zjrbwb.markenschuhe.de^
 ||zjrtqm.com^
 ||zjsdsports.cn^
+||zjttaqx.cn^
 ||zjws.xyz^
 ||zjwwhcdop.com^
 ||zjzs.club^
