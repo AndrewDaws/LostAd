@@ -5251,6 +5251,7 @@
 ||abgdqfuujl.xyz^
 ||abgeobalancer.com^
 ||abgligarchan.com^
+||abgxxc.com^
 ||abh.jp^
 ||abhorboring.com^
 ||abhorcarious.com^
@@ -16235,6 +16236,7 @@
 ||analytics.core.retell.cc^
 ||analytics.corusent.com^
 ||analytics.cpasitesolutions.com^
+||analytics.crea.ca^
 ||analytics.creativecircle.com^
 ||analytics.credible.com^
 ||analytics.crimewatchtech.com^
@@ -21653,7 +21655,6 @@ anti-adblocker$important
 ||b0rbgroup.xyz^
 ||b0.t.kicker.de^
 ||b0.yahoo.co.jp^
-||b1.027art.com^
 ||b107.info^
 ||b11stop.com^
 ||b128.ve.vc^
@@ -30594,6 +30595,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||check2.halifax-online.co.uk^
 ||check2.lloydsbank.co.uk^
 ||check2.mbna.co.uk^
+@@||check2.tsb.co.uk^|
 ||check2.tsb.co.uk^
 ||check3.tiaabank.com^
 ||check3.tiaa.org^
@@ -31067,6 +31069,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||chuang-yi.com.cn^
 ||chuary.com^
 ||chubaka.org^
+||chubbycreature.com^
 ||chu-bordeau.fr^
 ||chucity.com^
 ||chuckledinadmissible.com^
@@ -31320,6 +31323,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||cj20pl22pro.firebaseapp.com^
 ||cj20pl22pro.web.app^
 ||cj7g.top^
+||cja-1223.cc^
 ||cjbdme.conquer.org^
 ||cjbmanagement.com^
 ||cjb.net^
@@ -45845,6 +45849,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ergobaby.sagetrack.com^
 ||ergs4.com^
 ||erhousoas.work^
+||erhsxv.top^
 ||ericafterdark.com^
 ||ericanteeho.com^
 ||ericantpas.com^
@@ -56788,6 +56793,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hathor.eztonez.com^
 ||hathoroxidase.com^
 ||hathyneglu.com^
+||hatmiso.net^
 ||hatrecord.ru^
 ||hats-47b.com^
 ||hatsampledc.com^
@@ -59106,6 +59112,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||hqmetrics.sony.com^
 ||hqm.rigklutnw.site^
 ||hqoadthspnju.com^
+||hqoqbs.xyz^
 ||hqpass.com^
 ||hqpiibduci.xyz^
 ||hqqpw.mobi^
@@ -60751,6 +60758,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||ihauvogh.com^
 ||ihc.cellmarque.com^
 ||ihdcnwbcmw.com^
+||ihdqpyc.cn^
 ||ihear123.com^
 ||i.helikon.bg^
 ||ihfwer.aboutyou.com^
@@ -68104,6 +68112,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||kxc-news2.club^
 ||kxc-news3.club^
 ||kxewpz.com^
+||kxgo.xyz^
 ||kximxxzsva.com^
 ||kxizloe.cn^
 ||kxla.xyz^
@@ -79329,6 +79338,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||mon-va.tiktokv.com.edgesuite.net^
 ||monxserver.com^
 ||monzeropoly.be^
+||monzexn.cn^
 ||mooantink.com^
 ||m.ooaow.cn^
 ||mooblycar.com^
@@ -94993,6 +95003,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||promokrot.com^
 ||promolandforapp.com^
 ||promoland.space^
+||promolayer.io^
 ||promo.lifeselector.com^
 ||promoliks.com^
 ||promo.lonelywifehookup.com^
@@ -101605,6 +101616,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||runmibom.g02.ign.com^
 ||runnected.website^
 ||runnerswolrd.fr^
+||runn.fun^
 ||runningangular.com^
 ||runningdog34.xyz^
 ||runningman.site^
@@ -109588,6 +109600,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||snatchweedswimsuit.com^
 ||snat.goguardian.com^
 ||snazzierme.com^
+||snbklas.cn^
 ||snbwyi.heine.at^
 ||sndkorea.co.kr^
 ||snd.tc^
@@ -112330,6 +112343,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||static-res.playit2019.com^
 ||static.retirementcommunitiesfyi.com^
 ||static.returngo.ai^
+||static.rongkao.com^
 ||static.rqmob.com.w.kunlunsl.com^
 ||staticrr.sslsecure1.com^
 ||static-rtb2.afkwa.com^
@@ -128850,6 +128864,7 @@ vkcdnservice.appspot.com^
 ||vqd51a5.biz.ua^
 ||vqdjcy.com^
 ||vqfqo.us^
+||vqhifd.xyz^
 ||vqjxlie.cn^
 ||vqlrwgj.cn^
 ||vqnqrs53.com^
