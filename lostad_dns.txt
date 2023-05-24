@@ -119,6 +119,7 @@
 ||061093240018.static.ctinets.com^
 ||0632qyw.com^
 ||06362.com^
+||063f828cf2.com^
 ||064411445988012-dot-fus-dlw-mna.appspot.com^
 ||064ioio.com^
 ||065yuyu.com^
@@ -462,6 +463,7 @@
 ||1202liutiao.xyz^
 ||1203555.com^
 ||1205qitiao2022.xyz^
+||1206335544.rsc.cdn77.org^
 ||120askimages.com^
 ||12112336.pix-cdn.org^
 ||121.204.246.*.gif
@@ -601,7 +603,6 @@
 ||142a695da9b2951f11815d03d9f59b87.tinopa.co.pl^
 ||144757879640504-dot-ifile-document.appspot.com^
 ||144.dragonparking.com^
-||1454623486.rsc.cdn77.org^
 ||1486777118.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
 ||1493c7cc8b.com^
@@ -651,6 +652,7 @@
 ||166.ip-51-254-101.eu^
 ||1.66law.cn^
 ||1675450967.rsc.cdn77.org^
+||1678776982.rsc.cdn77.org^
 ||16868138130.space^
 ||1688slot.co^
 ||168esport.com^
@@ -29209,6 +29211,7 @@ anti-adblocker$important
 ||blvdstatus.com^
 ||blvexplorer.com^
 ||blvhq.com^
+||blvnsgr.xyz^
 ||blw4-1.com^
 ||bl.wavecdn.de^
 ||blxezur.cn^
@@ -40140,6 +40143,7 @@ conversions.appsflyersdk.com^
 ||cpdsrv.de^
 ||cpe-75-83-21-179.socal.res.rr.com^
 ||cpealwcwao.com^
+||cped7.xyz^
 ||cpee4bffa88be24-cme4bffa88be22.cpe.net.cable.rogers.com^
 ||cpendant.8684.com^
 ||cperformmedia-a.akamaihd.net^
@@ -45813,6 +45817,7 @@ conversions.appsflyersdk.com^
 ||dhuimjkivb.com^
 ||dhundora.com^
 ||dhwmtx.stylewe.com^
+||dhxrxn.xyz^
 ||dhxuiho.cn^
 ||dhyallache.space^
 ||dhyns.cn^
@@ -49330,6 +49335,7 @@ dlsdk.appsflyersdk.com^
 ||e4.wetterkameras.com^
 ||e512cca889a.chefs-kitchen.co.uk^
 ||e51710f24a.com^
+||e51d1.icu^
 ||e55cdcbcd2.com^
 ||e595.info^
 ||e5asyhilodice.com^
@@ -54955,6 +54961,7 @@ dlsdk.appsflyersdk.com^
 ||fatstepn.click^
 ||fattepush.com^
 ||fatuoidmunify.com^
+||fatvzh.xyz^
 ||fatwalkinger.club^
 ||fatwin.com^
 ||fatxmyaglo.com^
@@ -61151,6 +61158,7 @@ gcdsdk.appsflyersdk.com^
 ||ggweb.net^
 ||ggw.gusuwang.com^
 ||ggw.watertu.com^
+||ggx0001.com^
 ||ggx01.miguvideo.com^
 ||ggx02.miguvideo.com^
 ||ggx03.miguvideo.com^
@@ -61536,6 +61544,7 @@ gcdsdk.appsflyersdk.com^
 ||glaickoxaksy.com^
 ||glaidsurteeg.com^
 ||glaimtug.com^
+||glainsee.com^
 ||glaivoun.net^
 ||glaiweer.xyz^
 ||glaiwhee.net^
@@ -61847,6 +61856,7 @@ gcdsdk.appsflyersdk.com^
 ||gloveryforredwine.com^
 ||glovesfluent.com^
 ||glovestrue.com^
+||glovesusage.com^
 ||glovo.api.kustomerapp.com^
 ||glowbrand.xyz^
 ||glowdot.com^
@@ -65323,6 +65333,7 @@ gcdsdk.appsflyersdk.com^
 ||h-bid.com^
 ||hbihjeebhghcdeeeaef.ru^
 ||hbi-ingest.net^
+||hbkunye.com^
 ||hb.lifecycle.norton.com^
 ||hbloveinfo.com^
 ||hbmcfcd.cn^
@@ -65702,6 +65713,7 @@ gcdsdk.appsflyersdk.com^
 ||heimo.rrsdl.com^
 ||heinndoo.one^
 ||heinndoorhises.info^
+||heiow.xyz^
 ||heip3keop.cyou^
 ||heirchurchill.com^
 ||heiressplane.com^
@@ -68619,6 +68631,7 @@ gcdsdk.appsflyersdk.com^
 ||hywjmh.eriks.be^
 ||hyxn.net^
 ||hyyaofjnidwiyg.com^
+||hyyeriplwth.com^
 ||hyytt.buzz^
 ||hyz86.com^
 ||hyzaifx.ru^
@@ -69741,6 +69754,7 @@ gcdsdk.appsflyersdk.com^
 ||ikcdhvbyg.com^
 ||ikdxfh.jollyroom.se^
 ||ikeymutilla.space^
+||ikftkvrktbgt.com^
 ||ikholm.com^
 ||ikiif.com^
 ||ikikili.s3.us-west-004.backblazeb2.com^
@@ -72213,7 +72227,6 @@ inapps.appsflyersdk.com^
 ||intely.cn^
 ||intencam03bvabbu0187whnsl0.sfo3.digitaloceanspaces.com^
 ||intencysrv.com^
-||intensedebate.com^
 ||intensemisha.cyou^
 ||intensifier.de^
 ||intent.ai^
@@ -81070,6 +81083,7 @@ inapps.appsflyersdk.com^
 ||lkdlbad.tk^
 ||lkdvvxvtsq6o.com^
 ||lkfabkaliwk.xyz^
+||lkidke.com^
 ||lkj23jlkajsa.realestate.help^
 ||lkjbrd.signals.com^
 ||lkjhgfxcvbnm.site^
@@ -81276,6 +81290,7 @@ inapps.appsflyersdk.com^
 ||lnpost.skkim.pics^
 ||lnpost.truhon.shop^
 ||lnpost.www85.top^
+||lnpqqq.com^
 ||ln.reesttowny.com^
 ||lntvby.banggood.com^
 ||lnurynfingaor.com^
@@ -82090,6 +82105,7 @@ inapps.appsflyersdk.com^
 ||logs.ennexa.net^
 ||logs.ereality.org^
 ||logs.eresmas.com^
+||logservice1.dbankcloud.cn^
 ||logservice1.hicloud.com^
 ||logservice.agora.io^
 ||logservice-dra.platform.hicloud.com^
@@ -98332,6 +98348,7 @@ inapps.appsflyersdk.com^
 ||of.gordontarquin.com^
 ||ofgysy.xyz^
 ||ofhappinyer.com^
+||ofhgkuopngw.com^
 ||ofhypnoer.com^
 ||ofi.bandaprogram.xyz^
 ||oficialinesp.wixsite.com^
@@ -109982,6 +109999,7 @@ inapps.appsflyersdk.com^
 ||punyplant.com^
 ||punyu01.shard.jp^
 ||punyvamos.com^
+||puoxpytcblqrti.xyz^
 ||pupilmudwort.com^
 ||pupilorgansmad.com^
 ||puppygames.fr^
@@ -111063,6 +111081,7 @@ inapps.appsflyersdk.com^
 ||qkoio.cyou^
 ||qkouawnjejedvno.xyz^
 ||qkqasu.xyz^
+||qkrjbtcvnkmh.com^
 ||qksrv1.com^
 ||qksrv.biz^
 ||qksrv.cc^
@@ -116927,6 +116946,7 @@ register.appsflyersdk.com^
 ||sabergood.com^
 ||saber.srvcs.tumblr.com^
 ||sa-beta-ads-uploads-superawesome.netdna-ssl.com.sacdn.net^
+||sab.fast.ge^
 ||sabiomail.com^
 ||sabio.us^
 ||sabk.eu^
@@ -117170,6 +117190,7 @@ register.appsflyersdk.com^
 ||sagitta.meizu.com^
 ||saglikbakanligi-edestekbasvuru.com^
 ||sagonoll.com^
+||sagrew.com^
 ||sagroagh.com^
 ||sagul.xyz^
 ||sahandkeightg.xyz^
@@ -125670,6 +125691,7 @@ register.appsflyersdk.com^
 ||somtrdc.jobstreet.com.ph^
 ||somtr.financialengines.com^
 ||somuchrain.com^
+||somvprqshxr.com^
 ||som.vrbo.com^
 ||so.n11.com^
 ||sonar6-sea1-1.xx.fbcdn.net.iberostar.com^
@@ -126704,6 +126726,7 @@ register.appsflyersdk.com^
 ||spring-chips.com^
 ||spring.de^
 ||springdwnld2.com^
+||springify.io^
 ||springjaywolf.org^
 ||springmetrics.com^
 ||spring-sealion.com^
@@ -127519,6 +127542,7 @@ register.appsflyersdk.com^
 ||st3.wagbridge.advertisement.tanx.com^
 ||st4gaz.web.app^
 ||st4rt-n0w.space^
+||st-5cva8vttppvjafpc7jvj.kodik.biz^
 ||st83.startlogic.com^
 ||st-a8.tscubic.com^
 ||staaqwe.com^
@@ -135709,6 +135733,7 @@ register.appsflyersdk.com^
 ||thtrackingap.com^
 ||th-twenty8starz.blogspot.com^
 ||thuac.com^
+||thuah.com^
 ||thuanmimamsa.com^
 ||thubarahalli.32smilesdentalclinics.com^
 ||thuis.nl^
@@ -145970,6 +145995,7 @@ register.appsflyersdk.com^
 ||vidshouse.space^
 ||vidshub.top^
 ||vids-lists.com^
+||vidsofdream.space^
 ||vidsofdream.today^
 ||vidsrev.com^
 ||vidsservices.info^
@@ -147130,6 +147156,7 @@ vkcdnservice.appspot.com^
 ||vstats.digitaltrends.com^
 ||vstats.me^
 ||vstat.v.blog.sohu.com^
+||vst.dfn-network.pro^
 ||vstlog.17u.cn^
 ||vstocklab.com^
 ||vst.sibnet.ru^
@@ -147975,6 +148002,7 @@ vkcdnservice.appspot.com^
 ||waterstairs.com^
 ||waterstudio.fr^
 ||water.tetrapak.com^
+||waterypower.pro^
 ||wateryvan.com^
 ||wateryzapsandwich.com^
 ||wat.eurproject.xyz^
@@ -149420,6 +149448,7 @@ watson.*.microsoft.com
 ||wheeksir.net^
 ||wheel4win.com^
 ||wheeledajar.com^
+||wheelify.cartzy.com^
 ||wheelioapp.azureedge.net^
 ||wheels24.co.za^
 ||wheelsub.com^
@@ -151361,6 +151390,7 @@ watson.*.microsoft.com
 ||ww-absher.com^
 ||wwa.dateformore.de^
 ||wwads.cn^
+||wwandle.top^
 ||wwaol.com^
 ||wwa.only-dates.de^
 ||wwata.planticrysa.xyz^
@@ -157773,6 +157803,7 @@ watson.*.microsoft.com
 ||yuuwa.info^
 ||yuuxdmsd.org^
 ||yuvaresult.com^
+||yuwenbin.host^
 ||yuyuetui.com^
 ||yuzashop.com^
 ||yvaga-yvaga-yvaga.click^
@@ -158285,6 +158316,7 @@ watson.*.microsoft.com
 ||zdom.ru^
 ||zdorovmagazine.ru^
 ||zdppgkkz.ru^
+||zdpphgd.cn^
 ||zdpsve.scrapbook.com^
 ||zdravie.store^
 ||zdrawnews.ru^
@@ -158567,6 +158599,7 @@ watson.*.microsoft.com
 ||zhflodsix.cn^
 ||zhgarments.com^
 ||zhhgmh.mobi^
+||zhhxxnfuxn.com^
 ||zhibo128x1.xyz^
 ||zhibo128x2.xyz^
 ||zhifouzhifou.cn^
