@@ -14300,6 +14300,7 @@
 ||aejqhdgffsjkkld.site^
 ||aek.eus^
 ||a.electerious.com^
+||aeletheacd.com^
 ||aelinor.com^
 ||a-elita.in.ua^
 ||aem-adv-load-balancer-1202642824.us-west-2.elb.amazonaws.com^
@@ -18485,6 +18486,7 @@ analytics-*.aasaam.com
 ||analytics-stamp.confi.com.vc^
 ||analytics.stanby.com^
 ||analytics.stanwith.me^
+||analytics.starlink.com^
 ||analytics.starmakerstudios.com^
 ||analytics.starz.com^
 ||analytics-static.ugc.bazaarvoice.com^
@@ -29367,6 +29369,7 @@ anti-adblocker$important
 ||bnutnr.landandfarm.com^
 ||bnvsjg.hometogo.de^
 ||bnvxcfhdgf.blogspot.com.es^
+||bnz9.cn^
 ||bnzkua.trussardi.com.br^
 ||bnzwqldt.cf^
 ||bo26.e-goi.com^
@@ -31903,6 +31906,7 @@ anti-adblocker$important
 ||c993.westport-news.com^
 ||c9a2795c07.com^
 ||c9b501fef3.com^
+||c9cc.icu^
 ||c9e9c1507e.com^
 ||c9emgwai66zi.com^
 ||c9f0c13fcca75ed1044ba56dafe08071.microgro.pl^
@@ -45942,6 +45946,7 @@ conversions.appsflyersdk.com^
 ||digentu.de^
 ||digestiondrawer.com^
 ||digestiveirrelevantrestricted.com^
+||diggtp001.com^
 ||dightef.space^
 ||dighty.com^
 ||digiad.co^
@@ -67710,6 +67715,7 @@ gcdsdk.appsflyersdk.com^
 ||hrmationeng.xyz^
 ||hrm.healthgrades.com^
 ||hrnecek.com^
+||hrngmf.com^
 ||hroughhias.work^
 ||hroutefinder.net^
 ||hrpolicy-update.com^
@@ -75676,6 +75682,7 @@ inapps.appsflyersdk.com^
 ||jwbvdz.exceilentdate.com^
 ||jwclicks.com^
 ||jweber.ru^
+||jweod.xyz^
 ||jwghphm.cn^
 ||jwgihca.cn^
 ||jwimmer.eu^
@@ -77628,6 +77635,7 @@ inapps.appsflyersdk.com^
 ||kpdqdbyi.com^
 ||kpeoqklzeahc.com^
 ||kpicentral.com^
+||kpiwgio.cn^
 ||kpkgkkbs.xyz^
 ||kplpge.firebaseapp.com^
 ||kplusd.far.ru^
@@ -81306,6 +81314,7 @@ inapps.appsflyersdk.com^
 ||lobeliassp.com^
 ||loboclick.com^
 ||lobotomizing.info^
+||lobqpt.xyz^
 ||lobster.jusibe.com^
 ||lobster.justunderwear.com^
 ||lobster.tonebleed.com^
@@ -98445,6 +98454,7 @@ inapps.appsflyersdk.com^
 ||oi.lesbianbliss.com^
 ||oilforpeoplecan.site^
 ||oilishgotch.com^
+||oiljomy.xyz^
 ||oillesssris.guru^
 ||oilmanagpro.site^
 ||oilmwfagyft.com^
@@ -110865,6 +110875,7 @@ inapps.appsflyersdk.com^
 ||qontent.pomvideo.cc^
 ||qontent.powvibeo.me^
 ||qontent.powzers.lol^
+||qooav.top^
 ||qoogle.online^
 ||qooic.com^
 ||qoopler.ru^
@@ -111453,6 +111464,7 @@ inapps.appsflyersdk.com^
 ||qvbxza.stoneberry.com^
 ||qvc.franksistem.site^
 ||qvcservices.qvcemail.com^
+||qvcyeknp.xyz^
 ||qvi0.ru^
 ||qvikar.com^
 ||qvjpjsglmvhcbv.xyz^
@@ -145470,6 +145482,7 @@ register.appsflyersdk.com^
 ||vidsofdream.today^
 ||vidsrev.com^
 ||vidsservices.info^
+||vidsservices.space^
 ||vidstart.com^
 ||vidtfyjtivatliv.com^
 ||vidtok.ru^
@@ -146814,6 +146827,7 @@ vkcdnservice.appspot.com^
 ||vuvrawfufak.com^
 ||vuwgt.com^
 ||vuwmxjusucnh.com^
+||vuxxtn.xyz^
 ||vuzuru.wiki^
 ||vv1.pyhfxdm.cn^
 ||vv8h9vyjgnst.com^
@@ -155949,6 +155963,7 @@ watson.*.microsoft.com
 ||yangyuqing.xyz^
 ||yanjiusuo.cc^
 ||yankpainkiller.com^
+||yankuojjqq.com^
 ||yankuoyyds.com^
 ||yannan.us^
 ||yanping521.vip^
