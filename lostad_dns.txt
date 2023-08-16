@@ -14337,6 +14337,7 @@
 ||afdashrafi.com^
 ||afd.baidu.com^
 ||afdbwq.blivakker.no^
+||afdrivovoq.com^
 ||afdunaui.com^
 ||afdyfxfrwbfy.com^
 ||afeardswaging.tech^
@@ -17072,7 +17073,6 @@
 ||am-lpcdn.lpsnmedia.net^
 ||amltaqap.com^
 ||amlzwuofvck.com^
-||ammaar.delivery.zeerak.cloud^
 ||ammankeyan.com^
 ||am-media.fr^
 ||am.medialaben.no^
@@ -25857,6 +25857,7 @@ anti-adblocker$important
 ||bc.qunar.com^
 ||bcsaifrrtf.com^
 ||bcsjcj.nasdaq.com^
+||bctagb56.xyz^
 ||bctwe.com^
 ||bcuiaw.com^
 ||bcvc.mobi^
@@ -29062,6 +29063,7 @@ anti-adblocker$important
 ||bmorehacker.com^
 ||bmpgkspo.xyz^
 ||bmp.rentboy.com^
+||bmptbyb.com^
 ||bmrdrct.best^
 ||bmrdrct.info^
 ||bmrg.reflected.net^
@@ -29154,6 +29156,7 @@ anti-adblocker$important
 ||bnds3.site^
 ||bnds4.site^
 ||bnds6.site^
+||bnds7.site^
 ||bnds8.site^
 ||bn.dxlive.com^
 ||b.netall.ru^
@@ -61483,6 +61486,7 @@ gcdsdk.appsflyersdk.com^
 ||gdh4szx.appspot.com^
 ||gdhur.pasvar.xyz^
 ||gdjejefdqthxmy.xyz^
+||gdjme27.com^
 ||gdl5vtbbv0lj.com^
 ||gdl.i9dhjx.ru^
 ||gdl.liketech-cdn.site^
@@ -68090,6 +68094,7 @@ gcdsdk.appsflyersdk.com^
 ||hgub2polye.com^
 ||hgusler.com^
 ||hh6666.com^
+||hh6820123.com^
 ||hhaobcj.cn^
 ||hhas.utulo.site^
 ||hhb123.tk^
@@ -75177,6 +75182,7 @@ inapps.appsflyersdk.com^
 ||iqdata.ai^
 ||iqede.xyz^
 ||iqfp1.com^
+||iqgoukn.cn^
 ||iqimwsctvgbvqx.xyz^
 ||iqjwrk.crocodile.co.jp^
 ||iqkjrwf.com^
@@ -76855,6 +76861,7 @@ inapps.appsflyersdk.com^
 ||jixcizocsarj.com^
 ||jixie.io^
 ||jixinutu.online^
+||jixmlx.xyz^
 ||jiyan.net^
 ||jiztini.com^
 ||jizzarchives.com^
@@ -79606,6 +79613,7 @@ inapps.appsflyersdk.com^
 ||kmmtxfwntcnyd.com^
 ||kmmx49.com^
 ||kmn1sk.com^
+||kmnhgna.com^
 ||kmodukuleqasfo.info^
 ||kmoilane.com^
 ||kmotrack.xyz^
@@ -82285,6 +82293,7 @@ inapps.appsflyersdk.com^
 ||lffsnhwhxnqn.com^
 ||l.ffx.io^
 ||lfgw.loyalfans.com^
+||lfjtiuy.cn^
 ||lfklg.glamisflags.com^
 ||lflink.com^
 ||lflinkup.com^
@@ -85935,6 +85944,7 @@ inapps.appsflyersdk.com^
 ||lsk9w1xy.square.site^
 ||lskmipb.icu^
 ||lskrfj.outletcenter.gr^
+||lslbahl.top^
 ||lslld.xyz^
 ||lslmetrics.djlmgdigital.com^
 ||lslynl.chiashake.cz^
@@ -97716,6 +97726,7 @@ inapps.appsflyersdk.com^
 ||ndm-onead.cdn.hinet.net^
 ||ndog.co^
 ||ndparking.com^
+||ndqcz0e.xyz^
 ||ndqzqmb.xyz^
 ||ndroip.com^
 ||ndroyp.gettingpersonal.co.uk^
@@ -111305,6 +111316,7 @@ inapps.appsflyersdk.com^
 ||pondig.site^
 ||pondinternet.com^
 ||pondokiklan.com^
+||pondov.cfd^
 ||poneroy-com.preview-domain.com^
 ||pongidsrunback.com^
 ||pongoresume.com^
@@ -115351,6 +115363,7 @@ inapps.appsflyersdk.com^
 ||pyoungstersofto.xyz^
 ||pypal.interfoxprog.click^
 ||pypd.paypal-mktg.com^
+||pypwxvo.cn^
 ||pyract.com^
 ||pyranyea.com^
 ||pyrejay.com^
@@ -122035,6 +122048,7 @@ register.appsflyersdk.com^
 ||s3.zdmimg.com^
 ||s452123.lpmotortest.com^
 ||s4block.com^
+||s.4cola.com^
 ||s4cp.xyz^
 ||s4d.in^
 ||s4e8.cascades.com^
@@ -122046,6 +122060,7 @@ register.appsflyersdk.com^
 ||s4r.tut.by^
 ||s4.shoefire.life^
 ||s4.soulgame.com^
+||s.4tr.cc^
 ||s598286.lpmotortest.com^
 ||s5.charliehebdo.fr^
 ||s5ikadi.fun^
@@ -125646,6 +125661,7 @@ register.appsflyersdk.com^
 ||sentry.combahton.net^
 ||sentry.cozycloud.cc^
 ||sentry.csdn.net^
+||sentry.divar.cloud^
 ||sentry.flipkart.com^
 ||sentry.footballiapp.com^
 ||sentry.hamravesh.com^
@@ -140096,6 +140112,7 @@ register.appsflyersdk.com^
 ||tcucollege.store^
 ||t.cuhite.xyz^
 ||tcuhornedfrogs.store^
+||tcuqqhj.icu^
 ||tcwcs.com^
 ||tc-works.net^
 ||tcxt.app^
@@ -142732,6 +142749,7 @@ register.appsflyersdk.com^
 ||timzanzcuff.com^
 ||tinaborg.com^
 ||tinacorners.xyz^
+||tinancefa.org^
 ||tinb.net^
 ||tinbuadserv.com^
 ||tincalsamiably.website^
@@ -153134,6 +153152,8 @@ register.appsflyersdk.com^
 ||vhruwoiwripwieekdkdfk.com^
 ||vhsrwd.aip24.pl^
 ||vhss-d.oddcast.com^
+||vhsutpgui.xyz^
+||vhutitpu.icu^
 ||vhyvkx.com^
 ||vi1.souid.com^
 ||vi.5.p2l.info^
@@ -159256,6 +159276,7 @@ watson.*.microsoft.com
 ||wucvvh.surpricenow.com^
 ||wudr.net^
 ||wuepo.cn^
+||wuftoars.net^
 ||wugabts.com^
 ||wuge20230104.live^
 ||wugnkialbvis.com^
@@ -166209,6 +166230,7 @@ watson.*.microsoft.com
 ||zbyk.drl.pl^
 ||zbyynuew9g.ru^
 ||zbzbzzz.top^
+||zcbfjd.xyz^
 ||zccbvvmvmjjdiedjv.site^
 ||zc.china-10.com^
 ||zcck60eqyw.world^
@@ -167143,6 +167165,7 @@ watson.*.microsoft.com
 ||zswzri7ju3.ru^
 ||zsxrhkrfwwv.com^
 ||zsyk91.cn^
+||zszhln.xyz^
 ||zt-0304.cc^
 ||zt1.me.zing.vn^
 ||zt2088.com^
