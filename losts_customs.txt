@@ -1,6 +1,9 @@
 porofessor.gg##.vertical-ad-2-container
+porofessor.gg###bigTooltip
+porofessor.gg##.site-footer
 
 hipdf.com###sharePopup > div.mei-dialog-wrap1:last-child > div.mei-modal-content1:first-child
+srf.ch##.srgssr-subdivisions
 
 ebay-kleinanzeigen.de###vap-ovrly-secure
 ebay-kleinanzeigen.de##div.mfp-wrap.mfp-close-btn-in.mfp-auto-cursor.mfp-ready:nth-child(2)
@@ -11,6 +14,10 @@ genshin-center.com###__next > div.App_app__96S8v > div.Footer_footer__GLL0J:last
 
 twitch.tv###root > div.Layout-sc-nxg1ff-0.eoQePv > div.Layout-sc-nxg1ff-0.qViOJ:nth-child(2) > div.Layout-sc-nxg1ff-0.kSdScw:first-child > div.Layout-sc-nxg1ff-0.cSFwmv.consent-banner
 twitch.tv###f896048f7cb400f47f390e9f75f88c4e > div.Layout-sc-nxg1ff-0.iYwoNw.right-column.right-column--theatre.right-column--beside > div.Layout-sc-nxg1ff-0.hoDdPM:first-child > div.channel-root__right-column > div.Layout-sc-nxg1ff-0.hmkGMl > div.Layout-sc-nxg1ff-0.SVxtW.chat-shell.chat-shell__expanded > div.Layout-sc-nxg1ff-0.cHunhC > div.Layout-sc-nxg1ff-0.ciSpU.stream-chat > section.InjectLayout-sc-588ddc-0.chat-room.kmTSDC:last-child > div.Layout-sc-nxg1ff-0.gsjsMm.chat-room__content > div.Layout-sc-nxg1ff-0.gDuGLD:first-child > div.Layout-sc-nxg1ff-0.gDuGLD:first-child
+
+vlr.gg###float-right-160
+vlr.gg###float-left-160
+/img/pr/gg_006.gif$domain=vlr.gg
 
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.site-container.trn-grid.trn-grid--vertical.trn-grid--small:last-child > div.alert-banner.alert-banner--warning:first-child
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > footer:last-child
@@ -46,6 +53,14 @@ anti-adblocker$important
 ##.container--share
 ##.css-1czd2me, .e7ebutk5
 ##.promo
+##.cookie*
+##.autoprivacy, .pending
+##*.front-page-carousel
+###ad-vertical-left
+###ad-vertical-left-wrapper
+##.ad, .advertisement, .ad-v
+##.otCenterRounded, .ot-iab-2, .default, .vertical-align-content
+##.ads-dialog
 
 @@||vscode.dev^$important,document
 @@||lostinthe.cloud^$important,document
@@ -60,6 +75,7 @@ anti-adblocker$important
 @@||login.live.com^
 @@||launchercontent.mojang.com^
 @@||ichnaea-web.netflix.com^$important
+@@||news.ycombinator.com^$important,document
 
 @@||s.youtube.com
 @@||video-stats.I.google.com
@@ -83,6 +99,10 @@ watson.*.microsoft.com
 ###GetIn_CookieConsentBox
 ##.registration-banner, .registration-banner-isopen
 ###uhfCookieAlert
+##.mihoyo-cookie-tips, .mihoyo-cookie-tips--bottom, .mihoyo-cookie-tips--pc
+
+||wikipedia.org###siteNotice^$important
+
 ||sourcepoint.theguardian.com/index.html
 
 ||*.amazon.*$removeparam=tag
