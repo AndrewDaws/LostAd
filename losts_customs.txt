@@ -76,6 +76,7 @@ anti-adblocker$important
 @@||launchercontent.mojang.com^
 @@||ichnaea-web.netflix.com^$important
 @@||news.ycombinator.com^$important,document
+@@||distiller.com^$elemhide
 
 @@||s.youtube.com
 @@||video-stats.I.google.com
